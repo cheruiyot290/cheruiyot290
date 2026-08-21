@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @cheruiyot290<br>- 👀 I’m interested in Coding and programming, software development, web development, design, and networking. <br>- 🌱 I’m currently learning Computer science. <br>- 💞️ I’m looking to collaborate on the fields mentioned above. <br>- 📫 How to reach me (cheruiyotian18@gmail.com).<br>- 📫 My portfolio https://portfolio-3g8k.onrender.com/<br>
+- 👋 Hi, I’m @cheruiyot290<br>- 👀 I’m interested in Coding and programming, software development, web development, design, and networking. <br>- 🌱 I’m currently learning Computer science. <br>- 💞️ I’m looking to collaborate on the fields mentioned above. <br>- 📫 How to reach me (cheruiyotian18@gmail.com).<br>- 📫 My portfolio https://iancheruiyot.dev<br>
 
 
 ## 🌐 Socials:
